@@ -1,0 +1,65 @@
+.head {
+  background-color: #0ff;
+  border: 1px solid #000;
+  justify-content: space-between;
+  margin: 5px;
+  display: flex;
+}
+
+.logo {
+  width: 100px;
+}
+
+.navbar > ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.navbar > ul > li {
+  padding: 10px;
+}
+
+.card {
+  border: 1px solid #000;
+  border-radius: 10px;
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.card:hover {
+  color: red;
+  background-color: #0ff;
+}
+
+.card > img {
+  width: 100%;
+}
+
+.food {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.foot {
+  border: 1px solid #000;
+  justify-content: space-between;
+  margin: 5px;
+  display: flex;
+}
+
+.shimmer {
+  background: #d3d3d3;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+
+.Menu {
+  display: flex;
+}
+
+.link {
+  background-color: ;
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
